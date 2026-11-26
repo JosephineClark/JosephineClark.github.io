@@ -15,7 +15,11 @@ Portfolio Categories
 
 Software Design and Engineering
 
-This section will present an original artifact, its enhanced version, and a narrative explaining the design decisions and testing.
+This enhancement demonstrates my ability to improve an existing mobile application through progress tracking, software design, and user interface improvements.
+
+- [Original Weight Tracker Application](software-design/WeightTracker_Original.zip)
+- [Enhanced Weight Tracker Application](software-design/WeightTracker_Enhanced.zip)
+- [Software Design and Engineering Enhancement Narrative](software-design/narrative.html)
 
 
 Algorithms and Data Structures
