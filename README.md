@@ -30,7 +30,7 @@ This section will demonstrate database development, data validation, query perfo
 
 Code Review
 
-A recorded code review will examine the selected original artifacts and explain the planned enhancements.
+(https://drive.google.com/file/d/1wpU86BbqcWaXVB1EF7U3LLOgWDNdASgr/view?usp=drive_link)
 
 
 Professional Self-Assessment
